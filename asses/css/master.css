@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+@font-face {
+    font-family: primary;
+    src: url(../font/PTSansNarrow-Bold.ttf);  
+}
+
+@font-face {   
+    font-family: secondary;
+    src: url(../font/SourceSans3-VariableFont_wght.ttf);
+}
+
+
