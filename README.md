@@ -4,7 +4,7 @@
 
 ![view](https://github.com/niloufar-yousefi/Sport-Website1/assets/156951582/faa22a25-fc15-4ea7-90b1-9a6d7e62f219)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![vieww](https://github.com/niloufar-yousefi/Sport-Website1/assets/156951582/6c10894a-090e-4555-8ab5-2ac6a9452b14)
 
 - [Demo Project](https://niloufar-yousefi.github.io/Sport-Website1/)
 
